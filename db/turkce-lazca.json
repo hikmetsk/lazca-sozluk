@@ -1,0 +1,122 @@
+{
+    "ekmek": {
+        "meanings": [
+            {
+                "meaning": "kovali",
+                "type": 0
+            },
+            {
+                "meaning": "mç̌ǩidi",
+                "type": 0
+            },
+            {
+                "meaning": "oxaçku",
+                "type": 1
+            }
+        ]
+    },
+    "yüz": {
+        "meanings": [
+            {
+                "meaning": "nuǩu",
+                "type": 0
+            },
+            {
+                "meaning": "oşi",
+                "type": 0
+            }
+        ]
+    },
+    "yüzmek": {
+        "meanings": [
+            {
+                "meaning": "omçviru",
+                "type": 1
+            }
+        ]
+    },
+    "yüzük": {
+        "meanings": [
+            {
+                "meaning": "maǯǩindi",
+                "type": 0
+            }
+        ]
+    },
+    "yüzyıl": {
+        "meanings": [
+            {
+                "meaning": "oşǯanura",
+                "type": 0
+            }
+        ]
+    },
+    "yüzünden": {
+        "meanings": [
+            {
+                "meaning": "hemuşeni",
+                "type": 6
+            }
+        ]
+    },
+    "yol": {
+        "meanings": [
+            {
+                "meaning": "gza",
+                "type": 0
+            }
+        ]
+    },
+    "yolmak": {
+        "meanings": [
+            {
+                "meaning": "obundgolu",
+                "type": 1
+            }
+        ]
+    },
+    "yoldaş": {
+        "meanings": [
+            {
+                "meaning": "gzamşine",
+                "type": 0
+            }
+        ]
+    },
+    "yolcu": {
+        "meanings": [
+            {
+                "meaning": "magzale",
+                "type": 0
+            }
+        ]
+    },
+    "yollamak": {
+        "meanings": [
+            {
+                "meaning": "oncğonu",
+                "type": 0
+            }
+        ]
+    },
+    "yaşlı" : {
+        "meanings": [
+            {
+                "meaning": "badi",
+                "type": 0
+            },
+            {
+                "meaning": "kçini",
+                "type": 0
+            },
+            {
+                "meaning": "ladre",
+                "type": 2
+            },
+            {
+                "meaning": "ǯana",
+                "type": 0
+            }
+        ]
+    }
+}

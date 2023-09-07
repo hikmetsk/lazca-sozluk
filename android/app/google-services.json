@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72458102035",
+    "project_id": "lazca-sozluk-25a36",
+    "storage_bucket": "lazca-sozluk-25a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72458102035:android:6bb292a154a28c1510e6e6",
+        "android_client_info": {
+          "package_name": "com.example.lazca_sozluk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72458102035-nold2l20bkoi6lqikdh6c3jojl3t07j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhTGeuRUk4yyBhqdo9HOmeriXtX9lvQzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72458102035-nold2l20bkoi6lqikdh6c3jojl3t07j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

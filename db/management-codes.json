@@ -1,0 +1,11 @@
+{
+    "turkce-lazca.json/$word/meanings[$index]/type" : {
+        "0": "name",
+        "1": "verb",
+        "2": "adjective",
+        "3": "adverb",
+        "4": "conjunction",
+        "5": "preposition",
+        "6": "conjunction"
+    }
+}
